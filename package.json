@@ -1,26 +1,27 @@
 {
-     "name": "cra-template-webpack5",
-     "version": "1.1.5",
-     "keywords": [
-          "react",
-          "create-react-app",
-          "template"
-     ],
-     "description": "The webpack template for Create React App.",
-     "repository": {
-          "type": "git",
-          "url": "https://github.com/ChaseBurr/cra-template-webpack5.git",
-          "directory": "packages/cra-template"
-     },
-     "license": "MIT",
-     "engines": {
-          "node": ">=14"
-     },
-     "bugs": {
-          "url": "https://github.com/ChaseBurr/cra-template-webpack5/issues"
-     },
-     "files": [
-          "template",
-          "template.json"
-     ]
+  "name": "cra-template-webpack5",
+  "version": "1.1.5",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "webpack"
+  ],
+  "description": "The webpack template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChaseBurr/cra-template-webpack5.git",
+    "directory": "packages/cra-template"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/ChaseBurr/cra-template-webpack5/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
